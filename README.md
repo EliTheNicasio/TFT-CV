@@ -1,2 +1,2 @@
 # TFT-CV
-Program that can identify Teamfight Tactics champions and board states, with computer vision
+Program that can identify Teamfight Tactics champions and board states.
